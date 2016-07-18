@@ -103,10 +103,12 @@ $(document).ready(function(){
     </div>
 
     </div>
-    <div class="col-sm-4" style="background-color:gray;"></div>
+    <div class="col-sm-4" style="background-color:gray;">
     <div class="panel panel-success">
       <div class="panel-heading">City Stats</div>
       <div class="panel-body">A dynamic information Display System.Developed using  .net framework.Build using ASP.net and C# City stats display census Data in graphical form.
+      </div>
+      </div>
       </div>
     <div class="col-sm-4" style="background-color:gray;">
         <div class="panel panel-success">
