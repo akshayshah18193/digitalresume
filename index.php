@@ -134,6 +134,11 @@ $(document).ready(function(){
          <a href="http://aksinstagraph.blogspot.in">visit my blog</a> 
          
      </div>
+      <div  class="container-fluid bg-2 text-center">
+          <h1 class="margin"><span class="glyphicon glyphicon-phone-alt"><h2>Contact Details</h2></span></h1>
+          <h4><span class="label label-primary">Mobile<span class="badge">9765009987</span></span></h4>
+          
+          </div>
 </body>
 </html>
 
