@@ -119,6 +119,8 @@ $(document).ready(function(){
   </div>
 </div>
  </div>
+ <div id="SKILLS" class="container-fluid bg-3 text-center ">
+     </div>
 </body>
 </html>
 
