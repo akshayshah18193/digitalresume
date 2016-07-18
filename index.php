@@ -47,10 +47,21 @@
   <h3 class="margin">Lives in </h3>
   <h1 class="margin"><span class="glyphicon glyphicon-home"><h2>Pune</h2></span></h1>
   
-  <p>This is my Digital Profile</p>
+  
 
 </div>
+<div  id="Academics" class="container-fluid bg-3 text-center ">
+    
+  <h1 class="margin"><span class="glyphicon glyphicon-education"><h2> Academics</h2></span></h1><div class="progress">
+  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40"
+  aria-valuemin="0" aria-valuemax="100" style="width:40%">
+    40% Complete (success)
+  </div>
+</div>
+  
+  
 
+</div>
 
 
 
