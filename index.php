@@ -20,19 +20,19 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Me</a>
+      <a class="navbar-brand" href="#">About Me</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">WHO</a></li>
-        <li><a href="#">WHAT</a></li>
-        <li><a href="#">WHERE</a></li>
+        <li><a href="#PROJECTS">PROJECTS</a></li>
+        <li><a href="#SKILLS">SKILLS</a></li>
+        <li><a href="HOBBIES">HOBBIES</a></li>
       </ul>
     </div>
   </div>
 </nav>
 
-    <div  class="container-fluid bg-1 text-center">
+    <div id="WHO" class="container-fluid bg-1 text-center">
     <h1 class="margin"> I am </h1>
     <img src="akshay.jpg" class="img-responsive img-circle margin" style="display:inline" alt="Profile Pic" width="250" height="250">
     <h1 >Akshay Shah</h1>
