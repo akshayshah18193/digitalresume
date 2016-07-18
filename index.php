@@ -121,9 +121,12 @@ $(document).ready(function(){
  </div>
  <div id="SKILLS" class="container-fluid bg-3 text-center ">
      <h1 class="margin"><span class="glyphicon glyphicon-wrench"><h2>Skill Set</h2></span></h1>
-     <h3><span class="label label-default">New</span></h3>
-     <h3><span class="label label-default">New</span></h3>
-     <h3><span class="label label-default">New</span></h3>
+     <h3><span class="label label-info">Java</span></h3>
+     <h3><span class="label label-info">C</span></h3>
+     <h3><span class="label label-info">HTML</span></h3>
+     <h3><span class="label label-info">C++</span></h3>
+     <h3><span class="label label-info">JavaScript</span></h3>
+     <h3><span class="label label-info">Photoshop</span></h3>
      </div>
 </body>
 </html>
