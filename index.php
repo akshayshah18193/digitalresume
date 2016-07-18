@@ -106,14 +106,14 @@ $(document).ready(function(){
     <div class="col-sm-4" style="background-color:gray;">
     <div class="panel panel-success">
       <div class="panel-heading">City Stats</div>
-      <div class="panel-body">A dynamic information Display System.Developed using  .net framework.Build using ASP.net and C# City stats display census Data in graphical form.
+      <div class="panel-body">A dynamic information Display System.Developed using  .net framework.Build using ASP.net and C# ,City stats displays census Data in graphical form.
       </div>
       </div>
       </div>
     <div class="col-sm-4" style="background-color:gray;">
         <div class="panel panel-success">
       <div class="panel-heading">J Player</div>
-      <div class="panel-body">J Player is a  MP3 player is developed in Java Environment.UI Build using JAVA SWING framework, J player had features like auto Playlist(songs are added to queue after played for first time,user can save that list if he wish to),Playlist loading,Playlist saving,repeat,and shuffle.
+      <div class="panel-body">J Player is a  MP3 player is developed in Java Environment.UI Build using JAVA SWING framework, J player had features like auto playlist,playlist loading,Playlist saving,repeat,and shuffle.
       </div>
     </div>
   </div>
