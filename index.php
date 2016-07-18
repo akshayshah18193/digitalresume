@@ -53,7 +53,7 @@
 <div  id="ACADEMICS" class="container-fluid bg-3 text-center ">
     
   <h1 class="margin"><span class="glyphicon glyphicon-education"><h2> Academics</h2></span></h1>
-  <a data-toggle="popover1" title="Aggregate" data-placement="top" data-content="68%"><div class="progress">
+  <a data-toggle="popover1" title="Aggregate" data-placement="top left" data-trigger="hover" data-content="68%"><div class="progress">
   <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70"
   aria-valuemin="0" aria-valuemax="100" style="width:70%">
     MCA
