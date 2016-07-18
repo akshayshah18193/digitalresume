@@ -120,7 +120,7 @@ $(document).ready(function(){
 </div>
  </div>
  <div id="SKILLS" class="container-fluid bg-3 text-center ">
-     <h1 class="margin"><span class="glyphicon glyphicon-wrench"><h2>Skill Set</h2></span></h1>
+     <h1 class="margin"><span class="glyphicon glyphicon-wrench"><h2>Skills/h2></span></h1>
      <h3><span class="label label-info">Java</span></h3>
      <h3><span class="label label-info">C</span></h3>
      <h3><span class="label label-info">HTML</span></h3>
@@ -135,9 +135,9 @@ $(document).ready(function(){
          
      </div>
       <div  class="container-fluid bg-2 text-center">
-          <h1 class="margin"><span class="glyphicon glyphicon-phone-alt"><h2>Contact Details</h2></span></h1>
+          <h1 class="margin"><span class="glyphicon glyphicon-phone-alt"><h2>Contact</h2></span></h1>
           <h4><span class="label label-primary">Mobile<span class="badge">9765009987</span></span></h4>
-          
+          <h4><span class="label label-primary">Email<span class="badge">akshayshah.1893@gmail.com</span></span></h4>
           </div>
 </body>
 </html>
