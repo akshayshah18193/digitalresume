@@ -22,9 +22,9 @@
 
 <div class="container-fluid bg-2 text-center">
   <a href="#DOB" class="btn-info" data-toggle="collapse"><h3 class="margin">Born on </h3></a>
-  <div id ="DOB" class="collapse"><h1><span class="glyphicon glyphicon-baby-formula"><h2 class="margin">18 Jan 1993</h2></span></h1></div>
+  <div id ="DOB" class="collapse"><h1 class="margin"><span class="glyphicon glyphicon-baby-formula">18 Jan 1993</span></h1></div>
   <a href="#PLACE" class="btn-info"  data-toggle="collapse"><h3 class="margin">Lives in </h3></a>
-  <div id="PLACE" class="collapse "><h1><span class="glyphicon glyphicon-home"><h2 class="margin">Pune</h2></span></h1> </div>
+  <div id="PLACE" class="collapse "><h1 class="margin"><span class="glyphicon glyphicon-home">Pune</h1></div>
   <p>This is my Digital Profile</p>
 
 </div>
