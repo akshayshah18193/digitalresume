@@ -98,7 +98,7 @@ $(document).ready(function(){
     <div class="col-sm-4" style="background-color:lavender;">
         <div class="panel panel-success">
       <div class="panel-heading">Connection</div>
-      <div class="panel-body">An Assignment submission System & forum.
+      <div class="panel-body">An Assignment submission System & forum.Developed using Php and MySQL as Backend,HTML CSS at front Connection Won 1st price in a Software Project Competition.
       </div>
     </div>
 
