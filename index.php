@@ -113,7 +113,7 @@ $(document).ready(function(){
     <div class="col-sm-4" style="background-color:gray;">
         <div class="panel panel-success">
       <div class="panel-heading">J Player</div>
-      <div class="panel-body">J Player is a  MP3 player is developed in Java Environment.UI developed using JAVA SWING framework.
+      <div class="panel-body">J Player is a  MP3 player is developed in Java Environment.UI developed using JAVA SWING framework.J Player has a Playlist,shuffle and repeat feature.
       </div>
     </div>
   </div>
