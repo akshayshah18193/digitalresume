@@ -26,7 +26,8 @@
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#PROJECTS">PROJECTS</a></li>
         <li><a href="#SKILLS">SKILLS</a></li>
-        <li><a href="HOBBIES">HOBBIES</a></li>
+        <li><a href="#HOBBIES">ACADEMICS</a></li>
+        <li><a href="#HOBBIES">HOBBIES</a></li>
       </ul>
     </div>
   </div>
