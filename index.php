@@ -95,16 +95,16 @@ $(document).ready(function(){
       <h1 class="margin"><span class="glyphicon glyphicon-tasks"><h2> Academic Projects</h2></span></h1>
       
       <div class="row">
-    <div class="col-sm-4" style="background-color:lavender;">
+    <div class="col-sm-4" style="background-color:gray;">
         <div class="panel panel-success">
       <div class="panel-heading">Connection</div>
-      <div class="panel-body">An Assignment submission System & forum.Developed using Php and MySQL as Backend,HTML CSS at front Connection Won 1st price in a Software Project Competition.
+      <div class="panel-body">An Assignment submission System & forum.Developed using Php and MySQL as Backend,HTML & CSS3 at front Connection won 1st price an a Software Project Competition.
       </div>
     </div>
 
     </div>
-    <div class="col-sm-4" style="background-color:lavender;"></div>
-    <div class="col-sm-4" style="background-color:lavender;"></div>
+    <div class="col-sm-4" style="background-color:gray;"></div>
+    <div class="col-sm-4" style="background-color:gray;"></div>
   </div>
 </div>
  </div>
