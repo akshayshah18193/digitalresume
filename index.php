@@ -27,7 +27,15 @@
   <a href="#PLACE" class="btn-info"  data-toggle="collapse"><h3 class="margin">Lives in </h3></a>
   <div id="PLACE" class="collapse "><h1 class="margin"><span class="glyphicon glyphicon-home"><h2>Pune</h2></span></h1></div>
   <a href="#QUALF" class="btn-info" data-toggle="collapse"><h3 class="margin">Education</h3></a>
-  <div id="QUALF" class="collapse"><h1 class="margin"><span class="glyphicon glyphicon-education"><h2>BSc. Computer Science</h2></span></h1></div>
+  <div id="QUALF" class="collapse"><h1 class="margin"><span class="glyphicon glyphicon-education"><h4>
+   <div class="progress">
+  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="65.51"
+  aria-valuemin="0" aria-valuemax="100" style="width:40%">
+    Graduation Bsc Comp Science 
+  </div>
+</div>
+      
+  </h4></span></h1></div>
  
   <p>This is my Digital Profile</p>
 
