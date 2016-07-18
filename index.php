@@ -120,6 +120,10 @@ $(document).ready(function(){
 </div>
  </div>
  <div id="SKILLS" class="container-fluid bg-3 text-center ">
+     <h1 class="margin"><span class="glyphicon glyphicon-wrench"><h2>Skill Set</h2></span></h1>
+     <h3><span class="label label-default">New</span></h3>
+     <h3><span class="label label-default">New</span></h3>
+     <h3><span class="label label-default">New</span></h3>
      </div>
 </body>
 </html>
