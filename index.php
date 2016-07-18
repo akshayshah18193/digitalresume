@@ -20,7 +20,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">About Me</a>
+      <a class="navbar-brand" href="#WHO"></a>About Me</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
@@ -61,7 +61,7 @@
 </a>
 </div>
 <a data-toggle="popover" title="BCS Aggregate" data-placement="right" data-trigger="hover" data-content="65.51%"><div class="progress">
-  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="66"
+  <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="66"
   aria-valuemin="0" aria-valuemax="100" style="width:65%">
     BSc. Computer Science
   </div>
@@ -69,14 +69,15 @@
 </div>
 
 <a data-toggle="popover" title="12th Science" data-placement="right" data-trigger="hover" data-content="64.83%"><div class="progress">
-  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="66"
+  <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="66"
   aria-valuemin="0" aria-valuemax="100" style="width:64%">
     12th HSC
   </div>
 </a>
 </div>
 
-<a data-toggle="popover" title="10th %" data-placement="right" data-trigger="hover" data-content="81.53%"><div class="progress">
+<a data-toggle="popover" title="10th %" data-placement="right" data-trigger="hover" data-content="81.53%">
+    <div class="progress">
   <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="82"
   aria-valuemin="0" aria-valuemax="100" style="width:82%">
     10th SSC
@@ -89,12 +90,10 @@ $(document).ready(function(){
     $('[data-toggle="popover"]').popover();
 });
 </script>
-
 </div>
-
-
-
-     </div>
+ <div id="PROJECTS" class="container-fluid bg-3 text-center">
+      <h1 class="margin"><span class="glyphicon glyphicon-tasks"><h2> Projects</h2></span></h1>
+ </div>
 </body>
 </html>
 
