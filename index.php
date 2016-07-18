@@ -42,21 +42,11 @@
 
 <div class="container-fluid bg-2 text-center ">
     
-  <a href="#DOB" class="btn-info" data-toggle="collapse"><h3 class="margin">Born on </h3></a>
-  <div id ="DOB" class="collapse"><h1 class="margin"><span class="glyphicon glyphicon-baby-formula"><h2>18 Jan 1993</h2></span></h1></div>
-  <a href="#PLACE" class="btn-info"  data-toggle="collapse"><h3 class="margin">Lives in </h3></a>
-  <div id="PLACE" class="collapse "><h1 class="margin"><span class="glyphicon glyphicon-home"><h2>Pune</h2></span></h1></div>
-  <a href="#QUALF" class="btn-info" data-toggle="collapse"><h3 class="margin">Education</h3></a>
-  <div id="QUALF" class="collapse"><h1 class="margin"><span class="glyphicon glyphicon-education"><h4>
-   <div class="progress">
-  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="68"
-  aria-valuemin="0" aria-valuemax="100" style="width:68%">
-    Graduation Bsc Comp Science 
-  </div>
-</div>
-      
-  </h4></span></h1></div>
- 
+  <h3 class="margin">Born on </h3>
+  <h1 class="margin"><span class="glyphicon glyphicon-baby-formula"><h2>18 Jan 1993</h2></span></h1>
+  <h3 class="margin">Lives in </h3>
+  <h1 class="margin"><span class="glyphicon glyphicon-home"><h2>Pune</h2></span></h1>
+  
   <p>This is my Digital Profile</p>
 
 </div>
