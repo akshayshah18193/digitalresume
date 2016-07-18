@@ -53,17 +53,33 @@
 <div  id="ACADEMICS" class="container-fluid bg-3 text-center ">
     
   <h1 class="margin"><span class="glyphicon glyphicon-education"><h2> Academics</h2></span></h1>
-  <a data-toggle="popover1" title="Aggregate" data-placement="right" data-trigger="hover" data-content="68%"><div class="progress">
+  <a data-toggle="popover" title="MCA Aggregate" data-placement="right" data-trigger="hover" data-content="68%"><div class="progress">
   <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="68"
   aria-valuemin="0" aria-valuemax="100" style="width:70%">
     MCA Science
   </div>
 </a>
 </div>
-<a data-toggle="popover1" title="Aggregate" data-placement="right" data-trigger="hover" data-content="65.51%"><div class="progress">
+<a data-toggle="popover" title="BCS Aggregate" data-placement="right" data-trigger="hover" data-content="65.51%"><div class="progress">
   <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="66"
   aria-valuemin="0" aria-valuemax="100" style="width:65%">
     BSc. Computer Science
+  </div>
+</a>
+</div>
+
+<a data-toggle="popover" title="12th Science" data-placement="right" data-trigger="hover" data-content="64.83%"><div class="progress">
+  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="66"
+  aria-valuemin="0" aria-valuemax="100" style="width:64%">
+    12th HSC
+  </div>
+</a>
+</div>
+
+<a data-toggle="popover" title="10th %" data-placement="right" data-trigger="hover" data-content="81.53%"><div class="progress">
+  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="82"
+  aria-valuemin="0" aria-valuemax="100" style="width:82%">
+    10th SSC
   </div>
 </a>
 </div>
