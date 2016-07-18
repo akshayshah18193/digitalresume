@@ -60,7 +60,7 @@
   </div>
 </a>
 </div>
-<a data-toggle="popover1" title="Aggregate" data-placement="right" data-trigger="hover" data-content="68%"><div class="progress">
+<a data-toggle="popover1" title="Aggregate" data-placement="right" data-trigger="hover" data-content="65.51%"><div class="progress">
   <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="66"
   aria-valuemin="0" aria-valuemax="100" style="width:65%">
     BSc. Computer Science
