@@ -20,7 +20,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#"></a>About Me</a>
+      <a class="navbar-brand" href="#">About Me</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
@@ -124,9 +124,15 @@ $(document).ready(function(){
      <h3><span class="label label-info">Java</span></h3>
      <h3><span class="label label-info">C</span></h3>
      <h3><span class="label label-info">HTML</span></h3>
-     <h3><span class="label label-info">C++</span></h3>
+     <h3><span class="label label-info">CSS</span></h3>
      <h3><span class="label label-info">JavaScript</span></h3>
      <h3><span class="label label-info">Photoshop</span></h3>
+     </div>
+     <div id="HOBBIES" class="container-fluid bg-2 text-center">
+         <h1 class="margin"><span class="glyphicon glyphicon-tower"><h2>Hobbies</h2></span></h1>
+         <h3>Mobile Photography</h3>
+         <a href="http://aksinstagraph.blogspot.in">visit my blog</a> 
+         
      </div>
 </body>
 </html>
