@@ -139,8 +139,9 @@ $(document).ready(function(){
           <h1 class="margin"><span class="glyphicon glyphicon-phone-alt"><h2>Contact</h2></span></h1>
           <h4><span class="label label-primary">Mobile<span class="badge">9765009987</span></span></h4>
           <h4><span class="label label-primary">Email<span class="badge">akshayshah.1893@gmail.com</span></span></h4>
+        </div>          
           <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="akshay-shah-484a0549"><a class="LI-simple-link" href='https://in.linkedin.com/in/akshay-shah-484a0549?trk=profile-badge'>Akshay Shah</a></div>
-          </div>
+          
 </body>
 </html>
 
