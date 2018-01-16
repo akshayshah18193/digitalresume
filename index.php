@@ -133,7 +133,7 @@ $(document).ready(function(){
          <h1 class="margin"><span class="glyphicon glyphicon-tower"><h2>Hobbies</h2></span></h1>
          <h3>Mobile Photography</h3>
          <a href="http://aksinstagraph.blogspot.in">visit my blog</a> 
-         <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="akshay-shah-484a0549"><a class="LI-simple-link" href='https://in.linkedin.com/in/akshay-shah-484a0549?trk=profile-badge'>Akshay Shah</a></div>
+         <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="akshay-shah-484a0549"><a class="LI-simple-link" href='https://in.linkedin.com/in/akshay-shah-484a0549?trk=profile-badge'>Akshay Shah</a></div>
      </div>
       <div  class="container-fluid bg-2 text-center">
           <h1 class="margin"><span class="glyphicon glyphicon-phone-alt"><h2>Contact</h2></span></h1>
