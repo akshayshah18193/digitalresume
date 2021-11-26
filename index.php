@@ -121,7 +121,7 @@ review and justify or implement comments given by code
 reviewer.
       </div>
     </div>
-        
+          </div>
          <div class="row">
     <div class="col-sm-4" style="background-color:#ffffff;">
         <div class="panel panel-success">
@@ -137,7 +137,7 @@ under CICD architecture. Accelerator tool was developed and shared
 with team.
       </div>
     </div>
-        
+             </div>
                  <div class="row">
     <div class="col-sm-4" style="background-color:#ffffff;">
         <div class="panel panel-success">
@@ -153,7 +153,7 @@ to an automated build and deploy pipeline which implements CICD.
 Developed over 4 tools/accelerators in span of 3 years.
       </div>
     </div>
-        
+                     </div>
     </div>
 </div>
 
