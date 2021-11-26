@@ -28,7 +28,7 @@
         <li><a href="#PROJECTS">PROJECTS</a></li>
         <li><a href="#SKILLS">SKILLS</a></li>
         <li><a href="#ACADEMICS">ACADEMICS</a></li>
-        <li><a href="#WORKEXPERIENCE">ACADEMICS</a></li>
+        <li><a href="#WORKEXPERIENCE">WORKEXPERIENCE</a></li>
         <li><a href="#HOBBIES">HOBBIES</a></li>
       </ul>
     </div>
@@ -97,13 +97,14 @@
   </div>
 </a>
 </div>
- <h1 class="margin"><span class="glyphicon glyphicon-tasks"><h2> Roles and Responsibilities</h2></span></h1>
+ <h1 class="margin"><span class="glyphicon glyphicon-tasks"><h2>Designation Software Engineer</h2></span></h1>
       
       <div class="row">
     <div class="col-sm-4" style="background-color:#ffffff;">
         <div class="panel panel-success">
-      <div class="panel-heading">Designation Software Engineer</div>
-      <div class="panel-body">• Analysis of requirements and prepare Technical or design 
+      <div class="panel-heading"> Roles and Responsibilities</div>
+      <div class="panel-body">
+• Analysis of requirements and prepare Technical or design 
 documents.
 • Create API documentation.
 • Implement requirement by following good coding standards.
@@ -120,7 +121,39 @@ review and justify or implement comments given by code
 reviewer.
       </div>
     </div>
-
+        
+         <div class="row">
+    <div class="col-sm-4" style="background-color:#ffffff;">
+        <div class="panel panel-success">
+      <div class="panel-heading"> 2020- 2021 highlights</div>
+      <div class="panel-body">
+Lead end to end development of a new springboot java messaging 
+service.
+Lead a poc assignment for migrating .net microservice to java 
+microservice.
+Lead team and provided guidance for migrating application from a 
+traditional build and deployment to new build and deploy pipeline 
+under CICD architecture. Accelerator tool was developed and shared 
+with team.
+      </div>
+    </div>
+        
+                 <div class="row">
+    <div class="col-sm-4" style="background-color:#ffffff;">
+        <div class="panel panel-success">
+      <div class="panel-heading"> 2018- 2019 highlights</div>
+      <div class="panel-body">
+Worked on development and maintenance of multiple monolith and
+REST microservices. 
+Highly involved in innovations/ POC/tools/accelerator for ease of 
+developers in our team which would reduce development time.
+One of the accelerator which I developed helped teams to speed up 
+migration of all application from a traditional build and deploy pipeline 
+to an automated build and deploy pipeline which implements CICD. 
+Developed over 4 tools/accelerators in span of 3 years.
+      </div>
+    </div>
+        
     </div>
 </div>
 
