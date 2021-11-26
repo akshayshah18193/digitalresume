@@ -7,10 +7,42 @@ body {
     .margin {margin-bottom: 45px;
                 }
     .bg-1 {
-            background-color: #1abc9c; /* Green */
+            background-color: #68228B; /* Green */
             color: #ffffff;
     }
+     .bg-2 {
+      background-color: #474e5d; /* Dark Blue */
+      color: #ffffff;
+  }
+  .bg-3 {
+      background-color: #ffffff; /* White */
+      color: #555555;
+  }
+  a{
+      text-decoration: none;
+  }
+   a:hover
+   {
+      text-decoration:none;
+   }
+
 .text-props{
     color: #7FDBFF;
     text-align: center;
 }
+ .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+ .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: #1abc9c;
+  }
