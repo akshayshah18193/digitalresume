@@ -85,6 +85,21 @@
   </div>
 </a>
 </div>
+    
+<div  id="WORKEXPERIENCE" class="container-fluid bg-3 text-center ">
+    
+  <h1 class="margin"><span class="glyphicon glyphicon-education"><h2> Worrk Experience</h2></span></h1>
+  <a data-toggle="popover" title="Cognizant Technology Solutions" data-placement="right" data-trigger="hover" data-content="48 months"><div class="progress">
+  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="48"
+  aria-valuemin="0" aria-valuemax="100" style="width:48%">
+    MCA Science
+  </div>
+</a>
+</div>
+
+</div>
+
+    
   
   <script>
 $(document).ready(function(){
@@ -123,6 +138,11 @@ $(document).ready(function(){
  <div id="SKILLS" class="container-fluid bg-3 text-center ">
      <h1 class="margin"><span class="glyphicon glyphicon-wrench"><h2>Skills</h2></span></h1>
      <h3><span class="label label-info">Java</span></h3>
+      <h3><span class="label label-info">Springboot</span></h3>
+      <h3><span class="label label-info">C#</span></h3>
+      <h3><span class="label label-info">.NET</span></h3> 
+      <h3><span class="label label-info">REST API</span></h3>
+      <h3><span class="label label-info">Micro services</span></h3>
      <h3><span class="label label-info">C</span></h3>
      <h3><span class="label label-info">HTML</span></h3>
      <h3><span class="label label-info">CSS</span></h3>
@@ -131,8 +151,11 @@ $(document).ready(function(){
      </div>
      <div id="HOBBIES" class="container-fluid bg-2 text-center">
          <h1 class="margin"><span class="glyphicon glyphicon-tower"><h2>Hobbies</h2></span></h1>
-         <h3>Mobile Photography</h3>
-         <a href="http://aksinstagraph.blogspot.in">visit my blog</a> 
+         <h3>Photography</h3>
+         <h3>Book Reading</h3>
+         <h3>Cooking</h3>
+         <h3>Travelling</h3>
+         <a href="http://aksinstagraph.blogspot.in">visit my instagram</a> 
         
      </div>
       <div  class="container-fluid bg-2 text-center">
