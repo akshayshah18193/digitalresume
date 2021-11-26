@@ -89,11 +89,11 @@
     
 <div  id="WORKEXPERIENCE" class="container-fluid bg-3 text-center ">
     
-  <h1 class="margin"><span class="glyphicon glyphicon-education"><h2> Work Experience</h2></span></h1>
+  <h1 class="margin"><span class="glyphicon glyphicon-briefcase"><h2> Work Experience</h2></span></h1>
   <a data-toggle="popover" title="Cognizant Technology Solutions" data-placement="right" data-trigger="hover" data-content="48 months"><div class="progress">
   <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="48"
   aria-valuemin="0" aria-valuemax="100" style="width:48%">
-   Cognizant technology solutions (DEC 2017 - present)
+   Cognizant Technology solutions (DEC 2017 - present)
   </div>
 </a>
 </div>
