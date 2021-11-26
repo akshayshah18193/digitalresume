@@ -28,6 +28,7 @@
         <li><a href="#PROJECTS">PROJECTS</a></li>
         <li><a href="#SKILLS">SKILLS</a></li>
         <li><a href="#ACADEMICS">ACADEMICS</a></li>
+        <li><a href="#WORKEXPERIENCE">ACADEMICS</a></li>
         <li><a href="#HOBBIES">HOBBIES</a></li>
       </ul>
     </div>
