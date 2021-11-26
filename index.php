@@ -157,27 +157,19 @@ Developed over 4 tools/accelerators in span of 3 years.
     </div>
 </div>
 
-    <h1 class="margin"><span class="glyphicon glyphicon-thumbs-up"><h2>RRewards,Recognition and certifications</h2></span></h1>
+    <h1 class="margin"><span class="glyphicon glyphicon-thumbs-up"><h2>Rewards,Recognition and Certifications</h2></span></h1>
       
       <div class="row">
     <div class="col-sm-4" style="background-color:#ffffff;">
         <div class="panel panel-success">
-      <div class="panel-heading"> </div>
+      <div class="panel-heading">Rewards & Recognition </div>
       <div class="panel-body">
-Received Client Focus in 2020 
+         •  Received Client Focus in 2020. 
+         •  Received Outstanding performer in year 2020.
       </div>
     </div>
           </div>
-         <div class="row">
-    <div class="col-sm-4" style="background-color:#ffffff;">
-        <div class="panel panel-success">
-      <div class="panel-heading"> </div>
-      <div class="panel-body">
-Received Outstanding performer in year 2020
-            </div>
-    </div>
-             </div>
-                 <div class="row">
+                        <div class="row">
     <div class="col-sm-4" style="background-color:#ffffff;">
         <div class="panel panel-success">
       <div class="panel-heading"> Certifications</div>
