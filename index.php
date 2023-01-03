@@ -103,7 +103,8 @@ while (($date1 = strtotime('+1 MONTH', $date1)) <= $date2)
 echo '<a data-toggle="popover" title="Cognizant Technology Solutions" data-placement="right" data-trigger="hover" data-content="'.$months.' months"><div class="progress">
   <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="'.$months.'"
   aria-valuemin="0" aria-valuemax="100" style="width:'.$months.'%">
-   Cognizant Technology solutions (DEC 2017 - present)
+   Cognizant Technology solutions (DEC 2017 - OCT 2022)</br>
+   BOSCH (OCT 2022 - Present)
   </div>
 </a>' ;
 ?>
